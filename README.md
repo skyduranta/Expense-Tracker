@@ -1,8 +1,9 @@
 # Build an Expense Tracker App
+
+This project is designed to help you manage your expenses efficiently using the modern MERN stack and GraphQL.
 ![image](https://github.com/user-attachments/assets/30f585d0-0ad1-4094-ba6c-affa784bed94)
 
 Visit Website:- https://expense-tracker-va6d.onrender.com
-This project is designed to help you manage your expenses efficiently using the modern MERN stack and GraphQL.
 
 ## Technologies Used
     Frontend: React.js
